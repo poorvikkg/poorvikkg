@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**poorvikkg/poorvikkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Poorvik, a Backend Developer and AIML student.
 
-Here are some ideas to get you started:
+* Backend-focused developer interested in building scalable applications
+* Comfortable with C++ and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+* C++,java,python,JavaScript
+* Node.js, Express,springboot,flask
+* MySQL, Redis,postgreSQL,MongoDB,FaissDB
+* Git,Github,postMan,Docker
+
+### Contact
+
+* LinkedIn: https://www.linkedin.com/in/poorvik-kuthyala/
+* Email: Poorvik935@gmail.com
