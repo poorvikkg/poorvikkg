@@ -1,7 +1,7 @@
 # Hi, I'm Poorvik 👋
 
 🚀 Backend & AI Developer  
-💻 1500+ DSA Problems | LeetCode Knight (2006)  
+💻 1500+ DSA Problems | LeetCode Gaurdian (2128)  
 📌 Open to Work — Backend / Software Engineering Internship  
 
 ---
@@ -54,19 +54,10 @@
 ---
 
 
-
-## 📊 GitHub Stats
-
-![Poorvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=poorvikkg&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poorvikkg&layout=compact&theme=tokyonight)
-
----
-
 ## 🧠 Achievements
 
 - Solved 1500+ DSA problems  
-- LeetCode Knight (2006 rating)  
+- LeetCode Gaurdian (2128 rating)  
 - Institute Rank 1 @ GeeksforGeeks  
 - President @ Nucleus Technical Club  
 
