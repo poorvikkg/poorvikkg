@@ -53,29 +53,7 @@
 
 ---
 
-## 🚀 Projects
 
-### 🔍 Missing Person Detection System
-- Real-time AI system using CCTV footage  
-- Face detection (RetinaFace) + embeddings (ArcFace)  
-- FAISS-based similarity search  
-- Improved identification speed by ~30%  
-- Built with FastAPI + PostgreSQL + Docker  
-
-### 💬 Smart Messaging System
-- Centralized communication platform  
-- Kafka-based event-driven architecture  
-- WebSockets for real-time messaging  
-- Elasticsearch for advanced search  
-- Built with Spring Boot + MySQL + Redis  
-
-### 🧺 Laundry Management System
-- Full-stack system used by 10,000+ users  
-- Reduced processing time by 50%  
-- Built scalable APIs (↓40% latency)  
-- Tech: Node.js, Express, MongoDB  
-
----
 
 ## 📊 GitHub Stats
 
