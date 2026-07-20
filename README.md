@@ -41,7 +41,6 @@ public:
 };
 
 
----
 
 # 🌍 Connect With Me
 
@@ -67,7 +66,7 @@ public:
 
 📧 **Email:** poorvik935@gmail.com
 
----
+
 
 # ⚡ Tech Stack
 
@@ -190,7 +189,7 @@ public:
 
 > **Requires GitHub Actions**
 
-```markdown
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/poorvikkg/poorvikkg/output/github-contribution-grid-snake-dark.svg"/>
 </p>
@@ -278,4 +277,4 @@ public:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=180&section=footer"/>
 
 </div>
-````
+
