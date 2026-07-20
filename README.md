@@ -64,46 +64,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://medicine-neon.vercel.app/login">
-        <h3>💊 MediCare</h3>
-        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://circuit-fixer.vercel.app/">
-        <h3>🔌 Fixy</h3>
-        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://pblfinal-frontend.onrender.com/">
-        <h3>👕 Laundry System</h3>
-        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=render&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://nucleussjec.in/">
-        <h3>⚛️ Nucleus SJEC</h3>
-        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://gram-pickup.vercel.app">
-        <h3>🛍️ Gram Pickup</h3>
-        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-    </td>
-  </tr>
-</table>
+<a href="https://medicine-neon.vercel.app/login"><img src="https://img.shields.io/badge/💊_MediCare-Visit_Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"/></a>
+<a href="https://circuit-fixer.vercel.app/"><img src="https://img.shields.io/badge/🔌_Fixy-Visit_Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"/></a>
+<a href="https://pblfinal-frontend.onrender.com/"><img src="https://img.shields.io/badge/👕_Laundry_System-Visit_Live-22C55E?style=for-the-badge&logo=render&logoColor=white&labelColor=0f172a"/></a>
+<a href="https://nucleussjec.in/"><img src="https://img.shields.io/badge/⚛️_Nucleus_SJEC-Visit_Live-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a"/></a>
+<a href="https://gram-pickup.vercel.app"><img src="https://img.shields.io/badge/🛍️_Gram_Pickup-Visit_Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"/></a>
 
 </div>
 
