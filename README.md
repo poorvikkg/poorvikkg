@@ -117,110 +117,132 @@
 </div>
 
 
-# 💻 Development Stack
+<h2>💻 Development Stack</h2>
 
-<table align="center">
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<th align="left">💻 Languages</th>
+<th align="left">🗄️ Database</th>
+<th align="left">🤖 AI / ML</th>
+
+</tr>
 
 <tr>
-<td valign="top" width="33%">
 
-### 💻 Languages
+<td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
 
 </td>
 
-<td valign="top" width="33%">
+<td>
 
-### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
+<br><br>
 
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=meta&logoColor=white"/>
-
-</p>
-
-### 🚀 DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
-</p>
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
 
 </td>
 
-<td valign="top" width="33%">
-
-### 🤖 AI / ML
-
-<p align="center">
+<td>
 
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/NLP-8E24AA?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Image%20Processing-3949AB?style=for-the-badge"/>
+</td>
 
-</p>
+</tr>
 
-### 📚 Core CS
+<tr>
 
-<p align="center">
+<th align="left">🎨 Frontend</th>
+<th align="left">🚀 DevOps</th>
+<th align="left">📚 Core CS</th>
 
-<img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge"/>
+</tr>
+
+<tr>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman"/>
+
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/OOP-1976D2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/DBMS-2E7D32?style=for-the-badge"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/OS-D32F2F?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Networks-6A1B9A?style=for-the-badge"/>
 
-</p>
+</td>
 
-### 🏗️ System Design
+</tr>
 
-<p align="center">
+<tr>
 
-<img src="https://img.shields.io/badge/HLD-455A64?style=for-the-badge"/>
+<th align="left">⚙️ Backend</th>
+<th align="left">🏗️ System Design</th>
+<th></th>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi"/>
+
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/HLD-607D8B?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LLD-546E7A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/REST%20API-00897B?style=for-the-badge"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Scalability-3949AB?style=for-the-badge"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/DB%20Design-5E35B1?style=for-the-badge"/>
 
-</p>
-
 </td>
+
+<td></td>
+
 </tr>
 
 </table>
 
+</div>
 ---
 
 # 📊 GitHub Statistics
