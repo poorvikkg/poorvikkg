@@ -2,25 +2,41 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Poorvik%20Kuthyala&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descSize=17&descAlignY=56&descColor=93c5fd"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Backend+Developer+%7C+System+Architect;AI+%26+Machine+Learning+Engineer;LeetCode+Guardian+%7C+Rating+2128;Institute+Rank+%231+%40+GeeksforGeeks;Building+Scalable+Systems+at+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Backend+Developer+%7C+System+Architect;AI+%26+Machine+Learning+Engineer;LeetCode+Guardian+%7C+Rating+2129;Institute+Rank+%231+%40+GeeksforGeeks;Building+Scalable+Systems+at+Scale)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=poorvikkg&style=flat-square&color=2563eb&label=Profile+Views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/poorvikkg?style=flat-square&color=2563eb&label=Followers&logo=github&logoColor=white"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-✔-22c55e?style=flat-square"/>
+<a href="https://www.linkedin.com/in/poorvik-kuthyala/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:poorvik935@gmail.com"><img src="https://img.shields.io/badge/Email-poorvik935%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/poorvik-kuthyala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://leetcode.com/u/Poorvikkg/"><img src="https://img.shields.io/badge/LeetCode%20%7C%20Guardian%202128-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/poorvikkg"><img src="https://img.shields.io/badge/GFG%20%7C%20Rank%20%231-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/2500%2B%20DSA%20Problems-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+### 🏆 Competitive Rankings
+
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://leetcode.com/u/Poorvikkg/">
+<img src="https://img.shields.io/badge/LeetCode-Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Rating-2129-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://www.geeksforgeeks.org/profile/poorvikkg">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Rank%20%231-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Institute-Rank%20%231-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Matix%20Campus-Rank%20%231-7C3AED?style=for-the-badge&logo=trophy&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Campus-Top%20Coder-7C3AED?style=flat-square"/>
+</td>
+</tr>
+</table>
 
 </div>
 
