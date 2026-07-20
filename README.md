@@ -144,15 +144,15 @@
 <tr>
 
 <td align="center" width="300">
-<a href="https://nucleusjec.in">
+<a href="https://nucleussjec.in">
 <img src="https://img.shields.io/badge/🔬%20Nucleus%20Technical%20Club-President-1d4ed8?style=for-the-badge&labelColor=0f172a"/>
 </a>
 <br/><br/>
-<a href="https://nucleusjec.in">
-<img src="https://img.shields.io/badge/nucleusjec.in-Visit%20Club-2563eb?style=flat-square&logo=googlechrome&logoColor=white"/>
+<a href="https://nucleussjec.in">
+<img src="https://img.shields.io/badge/nucleussjec.in-Visit%20Club-2563eb?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 <br/>
-<sub>Leading a 500+ member technical community<br/>Organizing hackathons, workshops & coding events</sub>
+<sub>Leading a 40+ member technical community<br/>Organizing hackathons, workshops & coding events</sub>
 </td>
 
 <td width="40"></td>
