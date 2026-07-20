@@ -117,20 +117,10 @@
 
 ---
 
-## 📈 GitHub Activity
+
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poorvikkg&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poorvikkg&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poorvikkg&theme=github_dark"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poorvikkg&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poorvikkg&theme=github_dark&utcOffset=5.5"/>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poorvikkg/poorvikkg/output/github-contribution-grid-snake-dark.svg"/>
