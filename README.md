@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://drive.google.com/file/d/14BE5wrXHtUaCqMqV1X8ZfyZB6Jmlgf3y/view?usp=sharing">
 <img src="https://img.shields.io/badge/📄%20Download%20Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
