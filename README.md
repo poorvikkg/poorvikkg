@@ -29,20 +29,22 @@
 ---
 <div align="center">
 
-## ✨ Featured Portfolio
+## 🚀 Portfolio
 
 <a href="https://poorvikkg.github.io/portfolio/">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=170&section=header&text=🚀%20Explore%20My%20Portfolio&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Backend%20•%20AI%20•%20Projects%20•%20Achievements&descAlignY=72"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1500&color=3B82F6&center=true&vCenter=true&width=850&lines=Click+Here+to+Explore+My+Portfolio+🚀;Backend+•+AI+•+System+Design;Projects+•+Achievements+•+Experience"/>
+
 </a>
 
-<p>
 <a href="https://poorvikkg.github.io/portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
-</p>
 
 </div>
-
+---
 # 👋 Hello!
 
 I'm **Poorvik Kuthyala**, an AI & Machine Learning undergraduate passionate about building scalable backend systems and solving challenging algorithmic problems.
