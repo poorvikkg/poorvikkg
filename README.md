@@ -188,7 +188,7 @@ public:
 
 > **Requires GitHub Actions**
 
-```markdown
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/poorvikkg/poorvikkg/output/github-contribution-grid-snake-dark.svg"/>
 </p>
