@@ -2,36 +2,61 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=46&text=●%20●%20●%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20bash%20—%20poorvikkg@github%20—%20~&fontSize=13&fontColor=555555"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=900&color=39D353&center=true&vCenter=true&repeat=true&width=780&height=45&lines=poorvikkg%40github%3A~%24+cat+about.md;poorvikkg%40github%3A~%24+./show+--rankings+--all;poorvikkg%40github%3A~%24+ls+-la+skills%2F;poorvikkg%40github%3A~%24+git+log+--oneline+--graph;poorvikkg%40github%3A~%24+python+train.py+--model+deep-learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=900&color=39D353&center=true&vCenter=true&repeat=true&width=780&height=45&lines=poorvikkg%40github%3A~%24+neofetch;poorvikkg%40github%3A~%24+./show+--rankings+--all;poorvikkg%40github%3A~%24+ls+-la+skills%2F;poorvikkg%40github%3A~%24+git+log+--oneline+--graph;poorvikkg%40github%3A~%24+python+train.py+--model+deep-learning)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 ```bash
-poorvikkg@github:~$ cat about.md
+poorvikkg@github:~$ neofetch
 ```
 
+<table>
+<tr>
+<td align="center" valign="top" width="240">
+
+<img src="https://github.com/poorvikkg.png" width="190" style="border-radius:10px"/>
+
 ```
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│    Name      :  Poorvik Kuthyala                                     │
-│    Role      :  Backend Developer & AI Engineer                      │
-│    Location  :  India                                                │
-│    Portfolio :  poorvikkg.github.io/portfolio                        │
-│    Email     :  poorvik935@gmail.com                                 │
-│    LinkedIn  :  linkedin.com/in/poorvik-kuthyala                     │
-│                                                                      │
-│    Interests :  System Design · Distributed Systems                  │
-│                 Machine Learning · High-Performance Backends         │
-│                 Computer Vision · Large Scale Architecture           │
-│                                                                      │
-│    Currently :  Exploring HLD · Distributed Systems · CV            │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+┌──────────────────────┐
+│  > SCANNING USER...  │
+│  ████████████  100%  │
+│  ✔  ACCESS GRANTED   │
+└──────────────────────┘
 ```
 
-<br/>
+</td>
+<td valign="top">
+
+```
+poorvikkg@github
+────────────────────────────────────────────
+OS        :  Developer Edition 2025
+Role      :  Backend Dev & AI Engineer
+Location  :  India
+Shell     :  bash / Fira Code
+Editor    :  VS Code
+────────────────────────────────────────────
+LeetCode  :  Guardian  [ Rating: 2129 ]
+GFG       :  Institute Rank #1
+Matix     :  Campus Rank #1
+────────────────────────────────────────────
+Uptime    :  Coding since 2021
+Packages  :  2500+ DSA Problems solved
+Club      :  President @ Nucleus Tech Club
+────────────────────────────────────────────
+Contact   :  poorvik935@gmail.com
+LinkedIn  :  linkedin.com/in/poorvik-kuthyala
+Portfolio :  poorvikkg.github.io/portfolio
+────────────────────────────────────────────
+```
+
+</td>
+</tr>
+</table>
+
+
 
 ```bash
 poorvikkg@github:~$ cat rankings.json
