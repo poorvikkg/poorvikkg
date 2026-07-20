@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Poorvik%20Kuthyala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -16,7 +16,7 @@
 
 # 👨‍💻 About Me
 
-```cpp
+
 class Poorvik {
 
 public:
@@ -39,7 +39,7 @@ public:
     string lookingFor = "Software Engineering Internship";
 
 };
-```
+
 
 ---
 
