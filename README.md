@@ -138,19 +138,40 @@
 
 ---
 
-### 👑 Club Leadership
+## 🏛️ Leadership & Roles
 
-<a href="https://www.linkedin.com/company/nucleus-technical-club/">
-  <img src="https://img.shields.io/badge/Nucleus%20Technical%20Club-President-1d4ed8?style=for-the-badge&logo=discourse&logoColor=white&labelColor=0f172a"/>
+<table>
+<tr>
+
+<td align="center" width="300">
+<a href="https://nucleusjec.in">
+<img src="https://img.shields.io/badge/🔬%20Nucleus%20Technical%20Club-President-1d4ed8?style=for-the-badge&labelColor=0f172a"/>
 </a>
-
 <br/><br/>
+<a href="https://nucleusjec.in">
+<img src="https://img.shields.io/badge/nucleusjec.in-Visit%20Club-2563eb?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+<br/>
+<sub>Leading a 500+ member technical community<br/>Organizing hackathons, workshops & coding events</sub>
+</td>
 
-<sub>Building a strong technical community · Organizing events, hackathons & workshops</sub>
+<td width="40"></td>
 
+<td align="center" width="300">
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Ex%20Campus%20Representative-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d1f0f"/>
+</a>
 <br/><br/>
+<img src="https://img.shields.io/badge/GFG-Campus%20Ambassador-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+<br/>
+<sub>Promoted competitive programming culture<br/>Conducted DSA sessions & coding contests</sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,11,20&animation=twinkling"/>
 
 </div>
-
