@@ -28,23 +28,8 @@
 
 </div>
 
----
 
-## 👨‍💻 About Me
 
-<img align="right" src="https://github.com/poorvikkg.png" width="160" style="border-radius:12px; margin-left:20px"/>
-
-- 🎓 **Backend Developer & AI Engineer** based in India
-- ⚡ Passionate about **System Design**, **Distributed Systems**, and **ML/DL**
-- 🏆 **LeetCode Guardian** with rating **2129** — 2500+ problems solved
-- 🥇 **Institute Rank #1** on GeeksforGeeks · **Campus Rank #1** on Matix
-- 👑 **President** @ Nucleus Technical Club
-- 🌱 Currently exploring **HLD**, **Large Scale Architecture**, **Computer Vision**
-- 📫 Reach me at **poorvik935@gmail.com**
-
-<br clear="right"/>
-
----
 
 ## 🏆 Competitive Rankings
 
