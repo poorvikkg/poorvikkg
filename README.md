@@ -117,31 +117,109 @@
 </div>
 
 
-# ⚙️ Tech Stack
+# 💻 Development Stack
 
-### Languages
+<table align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
+<tr>
+<td valign="top" width="33%">
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 </p>
 
-### Backend
+### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,redis"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### AI / ML
+### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
 </p>
 
-### DevOps & Tools
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,postman,vscode"/>
+<td valign="top" width="33%">
+
+### 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=meta&logoColor=white"/>
+
+</p>
+
+### 🚀 DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🤖 AI / ML
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-8E24AA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Image%20Processing-3949AB?style=for-the-badge"/>
+
+</p>
+
+### 📚 Core CS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-2E7D32?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OS-D32F2F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Networks-6A1B9A?style=for-the-badge"/>
+
+</p>
+
+### 🏗️ System Design
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HLD-455A64?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLD-546E7A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-00897B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scalability-3949AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DB%20Design-5E35B1?style=for-the-badge"/>
+
+</p>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
