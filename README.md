@@ -132,7 +132,11 @@
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=poorvikkg&bg_color=0d1117&color=60a5fa&line=2563eb&point=3b82f6&area=true&area_color=1e3a8a&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poorvikkg/poorvikkg/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poorvikkg/poorvikkg/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/poorvikkg/poorvikkg/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
