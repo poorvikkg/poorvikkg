@@ -29,17 +29,11 @@
 ---
 <div align="center">
 
-## 🚀 Portfolio
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=0:0F172A,50:1D4ED8,100:2563EB&text=Explore+My+Portfolio&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
 <a href="https://poorvikkg.github.io/portfolio/">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1500&color=3B82F6&center=true&vCenter=true&width=850&lines=Click+Here+to+Explore+My+Portfolio+🚀;Backend+•+AI+•+System+Design;Projects+•+Achievements+•+Experience"/>
-
-</a>
-
-<a href="https://poorvikkg.github.io/portfolio/">
-
-<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome"/>
 
 </a>
 
