@@ -1,245 +1,129 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Poorvik%20Kuthyala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,100:2563eb&text=Poorvik%20Kuthyala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Backend+Developer+🚀;AI+%26+Machine+Learning+Engineer+🤖;Competitive+Programmer+💻;LeetCode+Guardian+(2128)+🏆;1500%2B+DSA+Problems+Solved+🔥;Always+Building.+Always+Learning."/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+Developer;AI+%26+Machine+Learning+Engineer;Competitive+Programmer;Building+Scalable+Systems)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=poorvikkg&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/poorvikkg?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/poorvikkg?style=for-the-badge"/>
+<p>
+<a href="https://github.com/poorvikkg"><img src="https://img.shields.io/github/followers/poorvikkg?style=flat-square&logo=github&color=181717"></a>
+<a href="https://leetcode.com/u/Poorvikkg/"><img src="https://img.shields.io/badge/LeetCode-2128-orange?style=flat-square&logo=leetcode"></a>
+<a href="https://www.geeksforgeeks.org/profile/poorvikkg"><img src="https://img.shields.io/badge/GeeksforGeeks-Rank%201-2F8D46?style=flat-square"></a>
+<img src="https://komarev.com/ghpvc/?username=poorvikkg&style=flat-square&color=2563eb"/>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hello!
 
+I'm **Poorvik Kuthyala**, an AI & Machine Learning undergraduate passionate about building scalable backend systems and solving challenging algorithmic problems.
 
-class Poorvik {
-
-public:
-
-    string role = "Backend & AI Engineer";
-
-    string college = "St. Joseph Engineering College";
-
-    vector<string> interests = {
-        "Backend Engineering",
-        "Distributed Systems",
-        "Artificial Intelligence",
-        "Competitive Programming",
-        "System Design",
-        "Open Source"
-    };
-
-    string currentFocus = "Building scalable backend systems";
-
-    string lookingFor = "Software Engineering Internship";
-
-};
+- 💻 Backend Development
+- 🤖 Artificial Intelligence & Computer Vision
+- 🧠 Competitive Programming
+- ⚡ System Design & Distributed Systems
+- 🌱 Always learning something new
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect
 
-<div align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/poorvik-kuthyala/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/poorvikkg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://leetcode.com/u/Poorvikkg/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<a href="mailto:poorvik935@gmail.com">
+<img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/poorvikkg">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-</div>
-
-📧 **Email:** poorvik935@gmail.com
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi"/>
-
-## Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
-
-## DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,postman,vscode"/>
-
-## AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv"/>
-
-</div>
-
----
-
-# 🚀 Currently Learning
-
-- 🔥 Advanced Backend Development
-- ⚡ High Level Design
-- 🏗️ Low Level Design
-- ☁️ Distributed Systems
-- 🤖 Computer Vision
-- 🧠 Deep Learning
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=poorvikkg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvikkg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=poorvikkg&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvikkg&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=poorvikkg&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📊 Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poorvikkg&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poorvikkg&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poorvikkg&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📅 GitHub Calendar
-
-<div align="center">
-
-<img src="https://github-readme-calendar.vercel.app/api?username=poorvikkg"/>
-
-</div>
-
----
-
-# ⚡ LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/poorvikkg?theme=dark&font=Poppins&ext=contest"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Requires GitHub Actions**
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/poorvikkg/poorvikkg/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# ⚙️ Tech Stack
 
-### 🚆 AI Railway Complaint System
+### Languages
 
-- AI-powered complaint analysis
-- Image Classification
-- NLP
-- Priority Detection
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
+</p>
 
----
+### Backend
 
-### 🎥 AI CCTV Surveillance
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,redis"/>
+</p>
 
-- Face Recognition
-- Redis Queue
-- BullMQ
-- MinIO
-- MongoDB
-- ONNX Runtime
-- FastAPI
-- React
+### AI / ML
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
-### 💬 Bulk WhatsApp Messaging Platform
+### DevOps & Tools
 
-- Authentication
-- Scheduling
-- Analytics
-- Backend APIs
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,postman,vscode"/>
+</p>
 
 ---
 
-# 🏅 Achievements
+# 📊 GitHub Statistics
 
-🏆 1500+ DSA Problems
+<div align="center">
 
-⭐ LeetCode Guardian (2128)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=poorvikkg&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🥇 Institute Rank 1 @ GeeksforGeeks
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvikkg&layout=compact&theme=tokyonight&hide_border=true"/>
 
-👨‍💼 President - Nucleus Technical Club
+</div>
 
-🚀 Backend Developer
+<br>
 
-🤖 AI Developer
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=poorvikkg&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
+
+# 🏆 Achievements
+
+- 🏅 **1500+ DSA Problems Solved**
+- ⭐ **LeetCode Guardian (2128 Rating)**
+- 🥇 **Institute Rank 1 — GeeksforGeeks**
+- 👨‍💼 **President — Nucleus Technical Club**
+
+---
+
+# 📚 Currently Exploring
+
+- High Level Design
+- Distributed Systems
+- Backend Architecture
+- Computer Vision
+- Large Scale System Design
+
+---
+
+<div align="center">
+
+> **"Consistency compounds. Build every day."**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0f172a"/>
+
+</div>
