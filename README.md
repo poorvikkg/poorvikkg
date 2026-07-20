@@ -31,7 +31,7 @@
 
 
 
-## 🏆 Competitive Rankings
+## Competitive Rankings
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🚀 Live Projects & Deployments
+## Live Projects & Deployments
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 ---
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 
 <div align="center">
@@ -121,7 +121,7 @@
 ---
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -135,7 +135,7 @@
 
 ---
 
-## ⚡ Coding Profiles & Stats
+## Coding Profiles & Stats
 
 <div align="center">
 
@@ -164,7 +164,7 @@
 
 ---
 
-## 🏛️ Leadership & Roles
+## Leadership & Roles
 
 <table>
 <tr>
