@@ -65,7 +65,7 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/Poorvikkg/">
-  <img width="49%" src="https://leetcard.jacoblin.cool/Poorvikkg?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8"/>
+  <img width="49%" src="https://leetcard.jacoblin.cool/Poorvikkg?theme=dark&font=Fira%20Code&border=0&radius=8"/>
 </a>
 <a href="https://www.geeksforgeeks.org/profile/poorvikkg">
   <img width="49%" src="https://gfgstatscard.vercel.app/?username=poorvikkg&theme=dark"/>
