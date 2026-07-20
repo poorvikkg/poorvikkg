@@ -29,11 +29,9 @@
 ---
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=0:0F172A,50:1D4ED8,100:2563EB&text=Explore+My+Portfolio&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
-
 <a href="https://poorvikkg.github.io/portfolio/">
 
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&background=2563EB&center=true&vCenter=true&width=600&height=70&lines=🚀+EXPLORE+MY+PORTFOLIO"/>
 
 </a>
 
