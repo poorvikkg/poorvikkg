@@ -31,7 +31,7 @@
 
 
 
-## 🏆 Competitive Rankings
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> Competitive Rankings
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🚀 Live Projects & Deployments
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Live Projects & Deployments
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 ---
 
 
-## 💻 Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Tech Stack
 
 
 <div align="center">
@@ -121,7 +121,7 @@
 ---
 
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> Contribution Snake
 
 <div align="center">
 
@@ -135,7 +135,7 @@
 
 ---
 
-## ⚡ Coding Profiles & Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> Coding Profiles & Stats
 
 <div align="center">
 
@@ -164,7 +164,7 @@
 
 ---
 
-## 🏛️ Leadership & Roles
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" alt="Building" width="35" height="35" /> Leadership & Roles
 
 <table>
 <tr>
