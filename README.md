@@ -80,6 +80,19 @@
 </div>
 ---
 
+## 🏆 Coding Profiles
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/poorvikkg">
+<img src="https://skillicons.dev/icons?i=github" height="60">
+</a>
+</td>
+
 <td style="width:35px;"></td>
 
 <td align="center">
@@ -100,7 +113,6 @@
 </table>
 
 </div>
-
 ---
 
 # ⚙️ Tech Stack
