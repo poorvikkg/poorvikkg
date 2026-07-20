@@ -60,21 +60,6 @@
 
 ---
 
-## ⚡ Coding Profiles & Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Poorvikkg/">
-  <img width="49%" src="https://leetcard.jacoblin.cool/Poorvikkg?theme=dark&font=Fira%20Code&border=0&radius=8"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/poorvikkg">
-  <img width="49%" src="https://gfgstatscard.vercel.app/?username=poorvikkg&theme=dark"/>
-</a>
-
-</div>
-
----
-
 
 ## 💻 Tech Stack
 
@@ -131,6 +116,29 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poorvikkg/poorvikkg/output/github-contribution-grid-snake.svg"/>
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/poorvikkg/poorvikkg/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+
+</div>
+
+---
+
+## ⚡ Coding Profiles & Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/u/Poorvikkg/">
+        <img width="100%" src="https://leetcard.jacoblin.cool/Poorvikkg?theme=dark&font=Fira%20Code&border=0&radius=8"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.geeksforgeeks.org/profile/poorvikkg">
+        <img width="100%" src="https://gfgstatscard.vercel.app/?username=poorvikkg&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
