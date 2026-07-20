@@ -139,16 +139,24 @@
 ---
 
 
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
+---
+
+### 👑 Club Leadership
+
+<a href="https://www.linkedin.com/company/nucleus-technical-club/">
+  <img src="https://img.shields.io/badge/Nucleus%20Technical%20Club-President-1d4ed8?style=for-the-badge&logo=discourse&logoColor=white&labelColor=0f172a"/>
+</a>
 
 <br/><br/>
 
-> **"Consistency compounds. Build every day."**
+<sub>Building a strong technical community · Organizing events, hackathons & workshops</sub>
 
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,11,20&animation=twinkling"/>
 
 </div>
+
