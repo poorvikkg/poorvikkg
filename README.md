@@ -104,16 +104,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=poorvikkg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=c9d1d9&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvikkg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poorvikkg&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poorvikkg&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poorvikkg&theme=github_dark"/>
 
 <br/><br/>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=poorvikkg&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=888888&dates=555555"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poorvikkg&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poorvikkg&theme=github_dark&utcOffset=5.5"/>
 
 <br/><br/>
 
@@ -123,15 +125,6 @@
 
 ---
 
-## 🏅 Trophies
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=poorvikkg&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
 
 <div align="center">
 
