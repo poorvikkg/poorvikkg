@@ -27,50 +27,59 @@
 </div>
 
 ---
-<div align="center">
 
-## 🌐 Portfolio
-
-<a href="https://poorvikkg.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
----
-# 👋 Hello!
-
-I'm **Poorvik Kuthyala**, an AI & Machine Learning undergraduate passionate about building scalable backend systems and solving challenging algorithmic problems.
-
-- 💻 Backend Development
-- 🤖 Artificial Intelligence & Computer Vision
-- 🧠 Competitive Programming
-- ⚡ System Design & Distributed Systems
-- 🌱 Always learning something new
-
----
-
-## 🌐 Connect
+## 🌐 Quick Access
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/poorvik-kuthyala/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/poorvikkg" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/📄%20Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Poorvikkg/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
+</p>
+
+---
+## 🌍 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/poorvik-kuthyala/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:poorvik935@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/14BE5wrXHtUaCqMqV1X8ZfyZB6Jmlgf3y/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/RESUME-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</p>
+---
+
+## 🏆 Profiles
+
+<p align="center">
+
+<a href="https://github.com/poorvikkg">
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Poorvikkg/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="60"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/poorvikkg">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="60"/>
 </a>
 
 </p>
