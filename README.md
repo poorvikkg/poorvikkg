@@ -40,26 +40,31 @@ I'm **Poorvik Kuthyala**, an AI & Machine Learning undergraduate passionate abou
 
 ---
 
-# 🌐 Connect
+## 🌐 Connect
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/poorvik-kuthyala/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/poorvik-kuthyala/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="https://github.com/poorvikkg">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/poorvikkg" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://leetcode.com/u/Poorvikkg/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
 </a>
 
 <a href="mailto:poorvik935@gmail.com">
-<img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/14BE5wrXHtUaCqMqV1X8ZfyZB6Jmlgf3y/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/RESUME-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
-
----
-
 # ⚙️ Tech Stack
 
 ### Languages
