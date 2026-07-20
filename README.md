@@ -53,44 +53,56 @@
 
 
 ---
-## 🌍 Connect
+## 📬 Contact
 
-<p align="center">
+<div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://www.linkedin.com/in/poorvik-kuthyala/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="60">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td style="width:35px;"></td>
 
+<td align="center">
 <a href="mailto:poorvik935@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+</td>
 
-</p>
+</tr>
+</table>
+
+</div>
 ---
 
-## 🏆 Profiles
+<td style="width:35px;"></td>
 
-<p align="center">
-
-<a href="https://github.com/poorvikkg">
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <a href="https://leetcode.com/u/Poorvikkg/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="60"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="60">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td style="width:35px;"></td>
 
+<td align="center">
 <a href="https://www.geeksforgeeks.org/profile/poorvikkg">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="60"/>
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="60">
 </a>
+</td>
 
-</p>
+</tr>
+</table>
+
+</div>
+
+---
+
 # ⚙️ Tech Stack
 
 ### Languages
