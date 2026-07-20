@@ -60,17 +60,40 @@
 
 ---
 
-## 📊 Coding Stats
+## ⚡ Coding Stats
 
 <div align="center">
 
-<img width="49%" src="https://leetcard.jacoblin.cool/Poorvikkg?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8"/>
+<img src="https://img.shields.io/badge/LeetCode-1423%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 &nbsp;
-<img width="47%" src="https://gfgstatscard.vercel.app/?username=poorvikkg&theme=dark"/>
+<img src="https://img.shields.io/badge/Guardian-Rank%20%239216-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Easy-319-00b8a3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Medium-832-ffc01e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hard-272-ef4743?style=flat-square"/>
+
+<br/><br/>
+
+<img width="70%" src="https://leetcard.jacoblin.cool/Poorvikkg?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-459%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Score-1951-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔥%20Streak-209%20Days-FF6B35?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Monthly%20Score-94-16a34a?style=flat-square"/>
+
+<br/><br/>
+
+<img width="55%" src="https://gfgstatscard.vercel.app/?username=poorvikkg&theme=dark"/>
 
 </div>
 
 ---
+
 
 ## 💻 Tech Stack
 
