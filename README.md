@@ -27,6 +27,21 @@
 </div>
 
 ---
+<div align="center">
+
+## ✨ Featured Portfolio
+
+<a href="https://poorvikkg.github.io/portfolio/">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=170&section=header&text=🚀%20Explore%20My%20Portfolio&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Backend%20•%20AI%20•%20Projects%20•%20Achievements&descAlignY=72"/>
+</a>
+
+<p>
+<a href="https://poorvikkg.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge"/>
+</a>
+</p>
+
+</div>
 
 # 👋 Hello!
 
