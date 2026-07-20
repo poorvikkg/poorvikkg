@@ -17,6 +17,8 @@
 <a href="https://www.geeksforgeeks.org/profile/poorvikkg">
 <img src="https://img.shields.io/badge/GeeksforGeeks-College%20Rank%202-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/Matrix-College%20Rank%202-7C3AED?style=flat-square"/>
+
 
 <img src="https://img.shields.io/badge/DSA-2500%2B%20Problems-2563EB?style=flat-square&logo=cplusplus&logoColor=white"/>
 
