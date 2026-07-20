@@ -82,28 +82,30 @@
 
 <h2>🏆 Coding Profiles</h2>
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" style="padding:25px;">
 <a href="https://github.com/poorvikkg">
-<img src="https://skillicons.dev/icons?i=github" height="70">
+<img src="https://skillicons.dev/icons?i=github" width="70">
 </a>
 <br><br>
 <b>GitHub</b>
 </td>
 
-<td align="center" width="33%">
+<td align="center" style="padding:25px;">
 <a href="https://leetcode.com/u/Poorvikkg/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="70">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="70">
 </a>
 <br><br>
 <b>LeetCode</b>
 </td>
 
-<td align="center" width="33%">
+<td align="center" style="padding:25px;">
 <a href="https://www.geeksforgeeks.org/profile/poorvikkg">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="70">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="70">
 </a>
 <br><br>
 <b>GeeksforGeeks</b>
@@ -111,6 +113,8 @@
 
 </tr>
 </table>
+
+</div>
 ---
 
 # ⚙️ Tech Stack
