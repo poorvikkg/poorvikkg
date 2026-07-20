@@ -178,7 +178,7 @@ public:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Poorvikkg?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/poorvikkg?theme=dark&font=Poppins&ext=contest"/>
 
 </div>
 
