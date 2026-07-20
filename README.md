@@ -29,17 +29,27 @@
 ---
 ## 🌐 Quick Access
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<div align="center">
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
+<td>
+<a href="https://poorvikkg.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+</td>
 
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
+<td style="width:25px;"></td>
+
+<td>
+<a href="https://drive.google.com/file/d/14BE5wrXHtUaCqMqV1X8ZfyZB6Jmlgf3y/view?usp=sharing">
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 
 ---
