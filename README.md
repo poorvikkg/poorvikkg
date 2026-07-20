@@ -4,11 +4,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+Developer;AI+%26+Machine+Learning+Engineer;Competitive+Programmer;Building+Scalable+Systems)](https://git.io/typing-svg)
 
-<p>
-<a href="https://github.com/poorvikkg"><img src="https://img.shields.io/github/followers/poorvikkg?style=flat-square&logo=github&color=181717"></a>
-<a href="https://leetcode.com/u/Poorvikkg/"><img src="https://img.shields.io/badge/LeetCode-2128-orange?style=flat-square&logo=leetcode"></a>
-<a href="https://www.geeksforgeeks.org/profile/poorvikkg"><img src="https://img.shields.io/badge/GeeksforGeeks-Rank%201-2F8D46?style=flat-square"></a>
-<img src="https://komarev.com/ghpvc/?username=poorvikkg&style=flat-square&color=2563eb"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/poorvik-kuthyala/">
+<img src="https://img.shields.io/badge/LinkedIn-2500%2B%20Followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Poorvikkg/">
+<img src="https://img.shields.io/badge/LeetCode-Guardian-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/poorvikkg">
+<img src="https://img.shields.io/badge/GeeksforGeeks-College%20Rank%202-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/DSA-2500%2B%20Problems-2563EB?style=flat-square&logo=cplusplus&logoColor=white"/>
+
 </p>
 
 </div>
