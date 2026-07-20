@@ -60,6 +60,55 @@
 
 ---
 
+## 🚀 Live Projects & Deployments
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://medicine-neon.vercel.app/login">
+        <h3>💊 MediCare</h3>
+        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://circuit-fixer.vercel.app/">
+        <h3>🔌 Fixy</h3>
+        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://pblfinal-frontend.onrender.com/">
+        <h3>👕 Laundry System</h3>
+        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=render&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://nucleussjec.in/">
+        <h3>⚛️ Nucleus SJEC</h3>
+        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://gram-pickup.vercel.app">
+        <h3>🛍️ Gram Pickup</h3>
+        <img src="https://img.shields.io/badge/Visit%20Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 
 ## 💻 Tech Stack
 
