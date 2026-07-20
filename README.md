@@ -117,72 +117,57 @@
 </div>
 
 
-<h2>💻 Development Stack</h2>
+# 💻 Development Stack
 
-<div align="center">
-
-<table width="100%" cellpadding="20" cellspacing="0">
-
-<tr>
-<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
 ### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 </p>
 
-</td>
-
-<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
 ### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-</td>
-
-<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
 </p>
 
-</td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### 🗄️ Database
+### 🗄️ Database & Storage
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=meta&logoColor=white"/>
+
 </p>
 
-</td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
-<td valign="top">
-
-### 🚀 DevOps
+### 🚀 DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </p>
 
-</td>
-
-<td valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
 ### 🤖 AI / ML
 
@@ -198,19 +183,11 @@
 
 <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Image%20Processing-3949AB?style=for-the-badge"/>
 
 </p>
 
-</td>
-
-</tr>
-
-</table>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 ---
 
 # 📊 GitHub Statistics
