@@ -60,7 +60,20 @@
 
 ---
 
+## 📊 Coding Stats
+
+<div align="center">
+
+<img width="49%" src="https://leetcard.jacoblin.cool/Poorvikkg?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8"/>
+&nbsp;
+<img width="47%" src="https://gfgstatscard.vercel.app/?username=poorvikkg&theme=dark"/>
+
+</div>
+
+---
+
 ## 💻 Tech Stack
+
 
 <div align="center">
 
