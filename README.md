@@ -30,20 +30,27 @@
 
 ## 🌐 Quick Access
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td width="40"></td>
+
+<td align="center">
 
 <a href="YOUR_RESUME_LINK">
 <img src="https://img.shields.io/badge/📄%20Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-</p>
-
+</td>
+</tr>
+</table>
 ---
 ## 🌍 Connect
 
