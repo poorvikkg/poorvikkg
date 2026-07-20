@@ -30,27 +30,19 @@
 
 ## 🌐 Quick Access
 
-<table align="center">
-<tr>
-<td align="center">
+<p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://poorvikkg.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td width="40"></td>
-
-<td align="center">
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/📄%20Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://drive.google.com/file/d/14BE5wrXHtUaCqMqV1X8ZfyZB6Jmlgf3y/view?usp=sharing">
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-</table>
+</p>
 ---
 ## 🌍 Connect
 
