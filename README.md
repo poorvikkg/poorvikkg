@@ -29,10 +29,10 @@
 ---
 <div align="center">
 
+## 🌐 Portfolio
+
 <a href="https://poorvikkg.github.io/portfolio/">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&background=2563EB&center=true&vCenter=true&width=600&height=70&lines=🚀+EXPLORE+MY+PORTFOLIO"/>
-
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
